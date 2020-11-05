@@ -1,6 +1,9 @@
 # salvador.ai
 I am something of a painter myself...
 
+
+<img src="https://miro.medium.com/max/700/1*kOQOZxBDNw4lI757soTEyQ.png" class="img-responsive" alt=""> 
+
 https://hardikbansal.github.io/CycleGANBlog/
 
 
