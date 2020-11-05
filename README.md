@@ -1,6 +1,8 @@
 # salvador.ai
 I am something of a painter myself...
 
+https://hardikbansal.github.io/CycleGANBlog/
+
 
 https://www.kaggle.com/basu369victor/style-transfer-deep-learning-algorithm
 
