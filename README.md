@@ -12,6 +12,9 @@ It makes sense to utilize every available buzzword to their maximal potential in
 
 https://hardikbansal.github.io/CycleGANBlog/
 
+https://nanonets.com/blog/stylegan-got/#stylegan
+
+https://blog.floydhub.com/gans-story-so-far/
 
 https://www.kaggle.com/basu369victor/style-transfer-deep-learning-algorithm
 
