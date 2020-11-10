@@ -2,6 +2,8 @@
 
 Rembot van Rijn
 
+A simultaneous neural network competition resulting in generated paintings undistinguishable from real artwork.
+
 I am something of a painter myself...
 
 
