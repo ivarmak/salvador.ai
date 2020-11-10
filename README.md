@@ -6,6 +6,8 @@ I am something of a painter myself...
 
 A simultaneous networking competition resulting in generated paintings undistinguishable from real artwork.
 
+It makes sense to utilize every available buzzword to their maximal potential in order to satisfy potential investors that our totally new, never-seen-before matrix multiplications are going to change the world as we know it.
+
 <img src="https://miro.medium.com/max/700/1*kOQOZxBDNw4lI757soTEyQ.png" class="img-responsive" alt=""> 
 
 https://hardikbansal.github.io/CycleGANBlog/
